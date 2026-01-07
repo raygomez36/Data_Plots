@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from pandas import json_normalize
 
-import matplotlib.pyplot as mp
+#import matplotlib.pyplot as mp
 
 from Plotly import Plotlypx
 from CSV import CSVFile
