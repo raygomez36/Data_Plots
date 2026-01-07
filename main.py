@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from pandas import json_normalize
-import plotly.express as px
+
 import matplotlib.pyplot as mp
 
 from Plotly import Plotlypx
